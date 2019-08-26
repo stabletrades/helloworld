@@ -1,2 +1,3 @@
 # helloworld
-short
+short description
+Finance -> Crypto -> Scrum Master -> Developer
